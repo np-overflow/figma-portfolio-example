@@ -1,0 +1,15 @@
+@media screen and (max-width: 1000px) {
+    #desktop-nav {
+        display: none;
+    }
+    #hamburger-nav {
+        display: flex;
+
+    }
+}
+
+/* It will hide the #desktop-nav 
+ when the screen width is less than 1000px
+ and display the #hamburger-nav instead.*/
+
+
